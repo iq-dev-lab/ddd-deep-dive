@@ -487,6 +487,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"엔티티와 서비스를 만드는 것과, 도메인의 불변식(Invariant)을 보호하는 객체 설계를 아는 것은 다르다"*
+**"엔티티와 서비스를 만드는 것과, 도메인의 불변식(Invariant)을 보호하는 객체 설계를 아는 것은 다르다"**
 
 </div>
